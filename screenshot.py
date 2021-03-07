@@ -22,7 +22,7 @@ def screenshot():
         
         ss += 1
         
-        time.sleep(2)#tempo para cada screnshot em segundos
+        time.sleep(2)#tempo para cada screenshot em segundos
         
 screenshot()
 print("finished")

@@ -1,3 +1,5 @@
+__author__ = "Fellipe Matos"
+__date__ = '07-03-2021'
 #testado no windows
 #script para capturar ScreenShots
 
